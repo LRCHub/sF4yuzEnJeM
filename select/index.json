@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ツキカゲ",
+  "base_artist": "esoragoto",
+  "createdAt": "2025-12-27T16:56:16.468232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツキカゲ",
+      "artist": "Polkadot Stingray",
+      "has_synced": false,
+      "path": "select/01_ツキカゲ_Polkadot_Stingray.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツキカゲ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/02_ツキカゲ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tsukikage [ツキカゲ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_Tsukikage_[ツキカゲ]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツキカゲ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/04_ツキカゲ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツキカゲ",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/05_ツキカゲ_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツキカゲ",
+      "artist": "Kradness",
+      "has_synced": true,
+      "path": "select/06_ツキカゲ_Kradness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツキカゲ",
+      "artist": "esoragoto",
+      "has_synced": false,
+      "path": "select/pl_01_ツキカゲ_esoragoto.txt"
+    }
+  ]
+}
